@@ -1,0 +1,8 @@
+<h1> <h2>...<h6> content </h6>...</h2> </h1>
+<br> - break line
+<hr size color align noshade width> - horizontal rule https://devdocs.io/html/element/hr
+<center> </center>
+<!-- "content" --> :- comment
+<html> <head> <title> <body> "content" </body></title> </head> </html>
+<meta> : metadata - data that describes data, eg. who wrote it, and its summary
+

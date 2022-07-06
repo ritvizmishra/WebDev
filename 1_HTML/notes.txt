@@ -1,0 +1,11 @@
+~ Foundation 
+~ Markup : editors markup, specify changes
+~ specify layout of web using tags <tag_name> content </tag_name> - start, end and self closing tags
+https://codepen.io
+Documentation : https://www.w3schools.com/html/default.asp , https://devdocs.io/
+~ Attributes : adding properties.
+~ Eg. : https://codepen.io/ritvizmishra/pen/VwXePaM?editors=1000
+Wayback Machine : https://archive.org/web/
+~ HTML Boilerplate : code template
+UTF-8 characters : https://www.fileformat.info/info/charset/UTF-8/list.htm & Unicode : https://unicode-table.com/en/
+~ Mojibake : garbled text that is the result of text being decoded using an unintended character encoding.
