@@ -7,6 +7,6 @@ Throughout this process, I will try to cover various tools and technologies.
 * Personal Site :
     * Basic webpage of my personal profile using HTML.
     ```
-      https://ritviz-mishra-web-name.on.drv.tw/www.ritviz-profile.com/
+      [Ritviz Mishra](https://ritviz-mishra-web-name.on.drv.tw/www.ritviz-profile.com/)
      ```
     
