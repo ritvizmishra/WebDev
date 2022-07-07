@@ -5,4 +5,12 @@
 <!-- "content" --> :- comment
 <html> <head> <title> <body> "content" </body></title> </head> </html>
 <meta> : metadata - data that describes data, eg. who wrote it, and its summary
-
+<em>...</em> : emphasize text
+<strong>...</strong> : conveys meaning
+<p>...</p> : paragraph
+&nbsp : blank space
+<ul>...</ul> : unordered list
+<ol>...</ol> : ordered list
+<li>...</li> : list item
+<img src = "address" alt="text to be displayed if not image"> : image tag, self closing
+<a href = "link">...</a> : anchor creates hyperlinks

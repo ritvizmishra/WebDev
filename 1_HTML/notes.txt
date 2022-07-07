@@ -9,3 +9,7 @@ Wayback Machine : https://archive.org/web/
 ~ HTML Boilerplate : code template
 UTF-8 characters : https://www.fileformat.info/info/charset/UTF-8/list.htm & Unicode : https://unicode-table.com/en/
 ~ Mojibake : garbled text that is the result of text being decoded using an unintended character encoding.
+~ <i> vs <em>* : i only italisizes while em emphasizes as well
+~ <b> vs <strong>* : b only bold while strong conveys meaning
+~ HTML list : to create bullet points and list
+~ alt in img is useful in SEO
