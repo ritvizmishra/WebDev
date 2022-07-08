@@ -14,3 +14,5 @@
 <li>...</li> : list item
 <img src = "address" or "./imagepath" 'height' 'width' alt="text to be displayed if not image"> : image tag, self closing
 <a href = "link">...</a> : anchor creates hyperlinks
+<table> <tr> <th> ...</th> || <td>...</td></tr></table>: table;
+<form>...</form> : form; <label></label>; <input>; <submit></submit>; <div></div>

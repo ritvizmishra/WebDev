@@ -13,3 +13,8 @@ UTF-8 characters : https://www.fileformat.info/info/charset/UTF-8/list.htm & Uni
 ~ <b> vs <strong>* : b only bold while strong conveys meaning
 ~ HTML list : to create bullet points and list
 ~ alt in img is useful in SEO
+color keywords : https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color_keywords#list_of_all_color_keywords
+~ deprecated : not recommended; use css for styling
+HTML Form : https://devdocs.io/html/element/form
+<input> : https://devdocs.io/html/element/input
+mailto in action : rediect to mail.
