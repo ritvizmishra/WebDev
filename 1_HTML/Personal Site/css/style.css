@@ -1,0 +1,43 @@
+body {
+    background-color:#F4F9F9;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+hr{
+    border-color: gray;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+   
+}
+a:link{
+    color: #4682aa ;
+    cursor:pointer ;
+    font-family: URW Palladio;
+    text-decoration:wavy;  
+}
+a:visited{
+    color: #F94C66;
+    font-family: URW Palladio;
+}
+
+a:hover{
+    font-size: larger;
+}
+
+h1{
+    color: #215a50;
+    font-family: Lucida Calligraphy;}
+h3{
+    color: #215f55;
+    font-family: Lucida Fax;
+    font-size:larger ;
+}
+
+.about{
+    font-size:18px;
+}
+
+#contact{
+    font-family:'Courier New', Courier, monospace;
+}
+

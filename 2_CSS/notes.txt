@@ -1,0 +1,18 @@
+~ Cascading Style Sheet : https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#user_stylesheets
+~ Only purpose is to style markup lang
+~ Can inject css directly into html tags
+~ style attribute defines what you want to change eg. style="background-color: ;"
+color palette : https://colorhunt.co/
+~ Iternal CSS: across entire page >> head >> below <title></title> >> select element you wanna affect eg. body{}.
+~ browsers always applies some default css
+~ CSS default value: https://www.w3schools.com/cssref/css_default_values.asp
+~ inset: embedded
+~ everything on the webpage is whole bunch of boxes
+~ External CSS: global (internal is easier still rdundant)
+    >> use <link rel="" href="point to our css file">
+~ Debug CSS : inline > internal > external (hierarchy)
+~ CSS Syntax -
+    >> selector{property : value;}  - alphabetical order is optimum
+    >> .class{property : value;} - more flexibility -- similar items can be grouped using same value
+    >> #id{property : value;} - more specific -- unique -- used sparingly
+    >> selector:pseudoclass{property : value;}
