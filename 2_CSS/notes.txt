@@ -16,3 +16,14 @@ color palette : https://colorhunt.co/
     >> .class{property : value;} - more flexibility -- similar items can be grouped using same value
     >> #id{property : value;} - more specific -- unique -- used sparingly
     >> selector:pseudoclass{property : value;}
+~ Favicon: icon that is displayed in tab beside our web name - https://www.favicon.cc/
+    >> link href="" rel="icon"
+~ HTML Divs: cannot do anything without css
+~ The box model of website styling - everything on a page is a box
+    >> padding: inner size
+    >> margin: outer size
+~ Display : how will be displayed
+~ Position: relative, absolute, fixed
+~ text-align: everything
+~ margin: val val val val
+~ Loren Ipsum: psuedo words before content
