@@ -10,7 +10,7 @@ body {
     display:inline  ;
     color: #f7f7f7;
     font-family: 'Bad Script', cursive;
-    font-size: 40px;
+    font-size: 42px;
     font-weight:bold;
     font-stretch: ultra-expanded;
     
@@ -19,9 +19,10 @@ body {
     color: #ffffff;
     font-family: 'Merriweather', serif;
     font-stretch:wider;
-    font-size:20px;
-    font-variant: small-caps;
+    font-size:1.28em;
+    font-variant:small-caps;
     font-weight: 400;
+    margin: 5px auto 0 auto;
 }
 
 .one{
@@ -39,8 +40,8 @@ body {
 .middle-container{
     margin-top: 35%;
     margin-bottom: 100px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .profile{
 
@@ -52,5 +53,24 @@ body {
     margin-top: 100px;
 }
 hr{
-    margin-top: 100px;
+    margin: 100px auto 0 auto;
+    border-color: gray;
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 30px;
+}
+h2{
+    color: #187771;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+    font-stretch:extra-expanded
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 2;
+    margin: 0 20px 0 20px;
 }
