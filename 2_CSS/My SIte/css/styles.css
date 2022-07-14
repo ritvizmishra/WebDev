@@ -26,7 +26,7 @@ body {
 }
 
 .one{
-    background-image: url("/2_CSS/My\ SIte/images/newbg.jpg");
+    background-image: url("../images/newbg.jpg");
     background-position-x: center;
     background-repeat:no-repeat;
     background-size:100%;
