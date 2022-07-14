@@ -27,3 +27,6 @@ color palette : https://colorhunt.co/
 ~ text-align: everything
 ~ margin: val val val val
 ~ Loren Ipsum: psuedo words before content
+~ Float : wrap around
+~ Clear : anti float
+~ button generator: https://css3buttongenerator.com/
