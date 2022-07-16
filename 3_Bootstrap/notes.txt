@@ -1,0 +1,17 @@
+~ Frontend - user sees; Backend - behind the scene
+~ Bootstrap: frontend framework, designing easy; open source (twitter)
+~ It helps in making adaptable layout
+~ Pre-styled elements. 
+~ Practice frameworks: https://www.codeply.com/
+~ Documentation: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+~ Pre-build sites could be found in examples
+~ CDN: content delivery network, quickly accessible
+~ User might already have cached in bootstrap file, as several sites use it, cutdown on latency
+~ {*}Starter Template: overall page requirements.
+~ Sourcing from local device negates caching
+~ Wireframing: low level design of web
+~ MockUp: high level design
+~ Websites for reference: https://www.awwwards.com/websites/com/
+~ UI patterns: http://ui-patterns.com/patterns
+~ dribble(design): https://dribbble.com/search/website
+~ navbar: directory
