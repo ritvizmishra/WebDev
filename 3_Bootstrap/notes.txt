@@ -15,3 +15,5 @@
 ~ UI patterns: http://ui-patterns.com/patterns
 ~ dribble(design): https://dribbble.com/search/website
 ~ navbar: directory
+~ bootstrap CSS link must go before your own CSS
+~ there are 12 col in a row on a screen: e.g class="col-md-6"
