@@ -17,3 +17,8 @@
 ~ navbar: directory
 ~ bootstrap CSS link must go before your own CSS
 ~ there are 12 col in a row on a screen: e.g class="col-md-6"
+~ Container: layout element & required when using our default grid system
+~ Button: add button
+~ Font Awesome: https://fontawesome.com/icons?d=gallery&q=apple
+~ transform: rotate(); -- to rotate;
+~ Visual Hierarchy: directing users
