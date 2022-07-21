@@ -25,3 +25,13 @@
 ~ Carousel: slideshow
 ~ aria-hidden : make screen reader to skip over this part.
 ~ Bootsnip: https://bootsnipp.com/
+~ CSS Z-index: 3rd coordinate; towards or away
+    >> it only works if your element has positioning property
+    >> only static doesn't work
+    >> flowchart: https://drive.google.com/uc?export=download&id=13Z1_Fgbh3QESIIoFpXUgo1F4sVjB9di2
+~ Responsive Breakpoints: 
+    >> CSS Meda Queries: @media <type> <feature>
+            >> e.g @media screen (min-width: 900px){
+                        // change something
+                    }
+    >> Test Mobile Friendliness: https://search.google.com/test/mobile-friendly
