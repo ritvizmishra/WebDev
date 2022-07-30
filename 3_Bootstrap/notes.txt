@@ -35,3 +35,18 @@
                         // change something
                     }
     >> Test Mobile Friendliness: https://search.google.com/test/mobile-friendly
+~ Code Refactoring: DRY Coding Practice 
+    >> Readability
+    >> Modularity : reuse
+    >> Efficiency
+    >> Length
+~ CSS Selectors:
+    >> Multiple Selectors e.g h1, h2, h3 { }
+    >> Hierchical Selector e.g #title .container-fluid { } parent >> child
+    >> Combined Selector e.g .container-fluid#title{ } child >> parent
+~ CSS Selector Priority 
+    >> Last CSS property has priority.
+        >> id > class > main
+    >> Preventing conflicting rules
+        >> use id sparingly
+        
