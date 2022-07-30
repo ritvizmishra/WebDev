@@ -11,13 +11,13 @@ Throughout this process, I will try to cover various tools and technologies.
     
 ### 2_CSS
 * First Portfolio
-   * Learnt and applied attributes of HTML and CSS.
+   * Learned and applied attributes of HTML and CSS.
    * [My Portfolio](https://ritviz-mishra-web-profile.on.drv.tw/www.ritviz-portfolio.com/)
     
 ### 3_Bootstrap
 * PawPups
    * It is the landing page for a social site dedicated to our pets with paws. 
-   * Learnt and applied attributes of HTML, CSS and Bootstrap front-end framework.
+   * Learned and applied attributes of HTML, CSS and Bootstrap front-end framework.
    * [PawPups](https://ritviz-mishra-web-site.on.drv.tw/www.pawpups.com/)
    
      
