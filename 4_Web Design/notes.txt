@@ -1,0 +1,54 @@
+~ You have 3 secs to make impression.
+~ Principles:
+    >> Colo Theory
+    >> Typography
+    >> User Interface Design 
+    >> User Experience Design
+~ Color Theory: Pallete Creation
+    >> Mood of color: what message
+        >> red: love. enery. intensity e.g car
+        >> yellow: joy. intellect. attention e.g attention grabbing (logo)
+        >> green: freshness. safety. growth e.g groceries
+        >> blue: stability. trust. serenity e.g finance (paypal)
+        >> purple: royality. wealth. femininity  
+    >> Combinig Colors:
+        >> Analagous Colors: colors next to each other on color scheme
+            >> navigation bar
+        >> Complementary Colors: Opposite on scheme
+            >> pop outs colors 
+        >> Adobe Color: https://color.adobe.com/create
+        >> Color Hunt: https://colorhunt.co/
+    >> Typography:
+        >> Serif: Respectable. Serious. Authoritative. Older 
+            >> e.g legal, architect
+        >> Sans-Serif: Sensible. Simple. Straightforward.
+            >> e.g startups
+        >> Stick at most to two fonts, find fonts with same mood, Serif-ness, Weights of fonts.
+    >> UI Design:
+        >> Hierarchy: based on priority 
+            >> Colors: manage attention
+        >> Layout:
+            >> blocks. images. text length (40-60 chars per line) e.g Grammarly
+        >> Alignment:
+            >> reduce alignment points 
+        >> White Space: 
+            >> e.g noise cancelling headphone box cover
+        >> Audience:
+            >> what would appeal to them
+    >> UX Design:
+        >> invicible not static, seems easy and effortless
+        >> Simplicity:
+            >> not overwhelming
+        >> Consistency:
+            >> from navigation bar to footer
+        >> Reading Patterns;
+            >> most common is F form, use F-Layout
+            >> another one is Z form, use Z-layout e.g video content, fast
+        >> All Platform Design:
+            >> mobile, tablet, pc 
+        >> Dark Patterns:
+            >> e.g checkboxes with weird text.
+            >> profitable to company. annoying to user.
+ ~ Design Challenges: https://www.dailyui.co/
+ ~ Page Inspirations: https://collectui.com/
+    
