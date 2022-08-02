@@ -1,0 +1,4 @@
+formely LiveScript. standard: ECMAScript
+JS is Interpreted (Python, Ruby) whereas Java (C++) is compiled
+Documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+function("message"); eg: alert("hello");
