@@ -1,4 +1,33 @@
-formely LiveScript. standard: ECMAScript
-JS is Interpreted (Python, Ruby) whereas Java (C++) is compiled
-Documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-function("message"); eg: alert("hello");
+~ formely LiveScript. standard: ECMAScript
+~ JS is Interpreted (Python, Ruby) whereas Java (C++) is compiled
+~ Documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+~ function("message"); eg: alert("hello");
+~ Datatypes:
+    >> String, Numbers, Boolean.
+    >> typeof(); gives type of Datatypes
+~ prompt(); : input
+~ Variables: 
+    >> var myName = "Ritviz";
+    >> Naming Conventions:
+        >> meaningful names
+        >> cannot begin w/ no.
+        >> cannnot contain space
+        >> only letter, no., $ and _
+~ Strings:
+    >> Concatenation:
+        >> "a" + "b" = ab
+    >> Length:
+        >> str.length; -- length of the string
+    >> Slice:
+        >> str.slice(a, b); a -- inclusive. b -- exclusive.
+    >> Change Case:
+        >> str.toUpperCase(); 
+        >> str.toLowerCase();
+~ Numbers:
+    >> Arithmetic Operators
+        >> +. -. *. /. %.
+    >> Increment (a++), Decrement (b--);
+~ Function:
+    >> Package of instructions.
+    >> function name(){}
+~ console.log(); -- for developers; 
