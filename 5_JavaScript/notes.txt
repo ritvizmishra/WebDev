@@ -30,4 +30,7 @@
 ~ Function:
     >> Package of instructions.
     >> function name(){}
-~ console.log(); -- for developers; 
+~ console.log(); -- for developers;
+~ Math.floor(); -- round down 
+~ Math.round(); -- round off
+~ Math.random(); -- never reaches 1.
