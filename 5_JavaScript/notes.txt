@@ -35,3 +35,5 @@
 ~ Math.round(); -- round off
 ~ Math.random(); -- never reaches 1.
 ~ prompt(); -- displays a dialog box that prompts the user for input
+~ == (doesnt care about the data type) whereas === (cares about the data type)
+~ .push -- insert, .pop -- remove.
