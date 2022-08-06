@@ -37,3 +37,31 @@
 ~ prompt(); -- displays a dialog box that prompts the user for input
 ~ == (doesnt care about the data type) whereas === (cares about the data type)
 ~ .push -- insert, .pop -- remove.
+
+DOM: The Document Object Model
+    >> The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document.
+    >> Catalouges the web pages in individual object that we can select and Change
+    >> Associated data is changed in tree.
+
+~ Inline js:
+    >> onload -- what has to be done on load
+    >> difficult to debug
+~ Internal js:
+    >> <script> alert("Hello"); </script>
+~ External js:
+    >> <script src=""> // something </script>
+
+~ Objects can have Properties & Methods:
+    >> Properties:
+        >> eg. car.color -- gives property (getter)
+        >> and, car.doors = 0; (setter).
+        >> innerHTML, style, firtChild
+    >> Methods:
+        >> car.drive(); (call method).
+        >> click(), appendChild(), setAttribute()
+~ Selecting:
+    >> document.querySelector(#id li); or,
+    >> document.querySelectorAll(#id .class);
+~ Manipulating Style:
+    >> eg. document.querySelector("h1").style.fontSize = "10 rem";
+        >> specify as string.
